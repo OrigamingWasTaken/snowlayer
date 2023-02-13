@@ -1,0 +1,8 @@
+{
+    "values": [
+        "snowlayer.core:load",
+        "snowlayer.debris:load",
+        "snowlayer.id:load",
+        "snowlayer.layer:load"
+    ]
+  }

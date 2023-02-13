@@ -1,0 +1,6 @@
+{
+    "values": [
+        "iris:setup/load",
+        "#snowlayer.core:_private/load"
+    ]
+}
